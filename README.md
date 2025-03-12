@@ -36,6 +36,12 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 
 
+<a href="https://github.com/vishalpatitiwary">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Vishalpatitiwary&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalpatitiwary&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
+
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
