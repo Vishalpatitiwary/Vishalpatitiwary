@@ -1,4 +1,4 @@
-### Hi, I'm Vishal! ![GitHub Views](https://komarev.com/ghpvc/?username=vishalpatitiwary&color=0e75b6)
+ ## Hi, I'm Vishal! ![GitHub Views](https://komarev.com/ghpvc/?username=vishalpatitiwary&color=0e75b6)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
